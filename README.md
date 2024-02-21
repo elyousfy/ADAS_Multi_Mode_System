@@ -10,6 +10,6 @@ This project is an ADAS Multi-Mode system that aims to develop and implement a s
 
 ## This project is used to demonstrate our ability to:
 - Write clean and readable code.
-- abstract code through layered architecture
-- use meaningful naming convention
-- demonstrate our ability to program drivers and microcontrollers from scratch
+- Abstract code through layered architecture.
+- Use meaningful naming convention.
+- Demonstrate our ability to program drivers and microcontrollers from scratch.
