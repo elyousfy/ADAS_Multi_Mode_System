@@ -8,7 +8,7 @@ This project is an ADAS Multi-Mode system that aims to develop and implement a s
 - LKA using IR
 - LDW (Lane Departure Warning)
 
-This project is used to demonstrate our ability to :
+## This project is used to demonstrate our ability to:
 - Write clean and readable code.
 - abstract code through layered architecture
 - use meaningful naming convention
